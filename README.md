@@ -33,4 +33,4 @@ On the side, I am creating a challenge tracker app called Dabbles and slowly com
 
 <a href="mailto:cgc95@cornell.edu"><img src="https://user-images.githubusercontent.com/6743397/118423555-3d4f7f80-b693-11eb-8a81-5bca1fecec6c.png"  height="48" width="48" ></a><br>
 
-![](https://user-images.githubusercontent.com/6743397/118409390-2f303d80-b658-11eb-8f2b-d14e29732501.gif)
+![](https://user-images.githubusercontent.com/6743397/118424884-09298e00-b696-11eb-8f0d-c48ed12c426a.gif)
