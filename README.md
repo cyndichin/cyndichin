@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Currently, I am focusing on building my skillset as a mobile developer and hope to teach one day. I geek out over snowboarding, fitness, self-help books and board games.
 
-On the side, I am creating a challenge tracker app called Dabbles and slowly completing 100 Days of SwiftUI. To follow me on my journey, check out my [blog](http://cyndichin.github.io) or follow @matchabytes on Instagram.
+On the side, I am creating a challenge tracker app called Dabbles and slowly completing 100 Days of SwiftUI. To follow me on my journey, check out my [blog](http://cyndichin.github.io/blog/) or follow @matchabytes on Instagram.
 
 [![Cyndi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyndichin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
