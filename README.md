@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### A bit about me
-- 📱 &nbsp;Working as an iOS Software Engineer @ CNBC
+- 📱 &nbsp;Working as an iOS Software Engineer @ Mozilla (Pocket)
 - 🎓 &nbsp;Attending Georgia Tech as a part-time graduate student
 - 🍵 &nbsp;Making tea every morning 
 
